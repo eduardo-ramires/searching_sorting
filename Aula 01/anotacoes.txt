@@ -1,0 +1,1 @@
+A estrutura MVC divide uma aplicação em três camadas interdependentes: o Model (gerencia os dados), a View (exibe a interface) e o Controller (controla as regras de negócio)
